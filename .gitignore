@@ -977,3 +977,17 @@ MigrationBackup/
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+# Added by JL
+src/coolc/test/*
+src/coolc/bin/*
+src/coolc/tools/*
+src/coolc/src/coolc/Lexer/CoolLexer.cs
+src/coolc/src/coolc/Lexer/CoolLexer.tokens
+src/coolc/src/coolc/Parser/Cool.tokens
+src/coolc/src/coolc/Parser/CoolParser.cs
+src/coolc/src/coolc/Utils/CoolVisitor.cs
+src/coolc/src/coolc/Utils/CoolBaseVisitor.cs
+src/coolc/src/coolc/Visitors/CoolParserVisitor.cs
+src/coolc/src/coolc/Visitors/CoolParserBaseVisitor.cs
+*.swp
+*.txt
