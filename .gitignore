@@ -990,4 +990,5 @@ src/coolc/src/coolc/Utils/CoolBaseVisitor.cs
 src/coolc/src/coolc/Visitors/CoolParserVisitor.cs
 src/coolc/src/coolc/Visitors/CoolParserBaseVisitor.cs
 *.swp
+*.pdf
 *.txt
