@@ -6,7 +6,7 @@
 # clean:
 # 	rm -rf build/*
 
-all : clean restore build publish
+all : clean restore build #publish
 
 clean:
 	dotnet clean coolc/src/coolc/coolc.csproj
@@ -17,8 +17,8 @@ restore:
 build: 
 	dotnet build coolc/src/coolc/coolc.csproj
 
-publish:
-	dotnet publish coolc/src/coolc/coolc.csproj -c Release -o bin/
+# publish:
+# 	dotnet publish coolc/src/coolc/coolc.csproj -c Release -o bin/
 
 run:
 	cd coolc/src/coolc/; dotnet run 
