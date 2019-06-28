@@ -4,8 +4,8 @@
 
 **Nombre** | **Grupo** | **Github**
 --|--|--
-Daniel De la Osa Fernandez | C411 | [@github_user](https://github.com/maxblu)
-Jose Luis Alvarez de la Campa | C412 | [@github_user](https://github.com/flakula)
+Daniel De la Osa Fernandez | C411 | [@maxblu](https://github.com/maxblu)
+Jose Luis Alvarez de la Campa | C412 | [@flakula](https://github.com/flakula)
 
 ## Readme
 
